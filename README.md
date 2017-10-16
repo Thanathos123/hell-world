@@ -1,4 +1,4 @@
 # hell-world
 new to programing
-i want to lear 
+i want to learn 
 any recomandations on where to start?
